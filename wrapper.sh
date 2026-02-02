@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 /home/emerg1/airflow/dags/ETL_SCRIPT.py
+python3 /home/rts/airflow/dags/ETL_SCRIPT.py
